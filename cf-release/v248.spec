@@ -3184,4 +3184,3 @@ uaadb.roles:
 version:
   description: '''version'' attribute in the /v2/info endpoint'
   default: 0
-
